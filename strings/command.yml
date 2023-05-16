@@ -77,9 +77,9 @@ LOGGER_COMMAND : ["logger"]
 
 #Heroku
 GETLOG_COMMAND : ["get_log"]
-GETVAR_COMMAND : ["get_var"]
-DELVAR_COMMAND : ["del_var"]
-SETVAR_COMMAND : ["set_var"]
+GETVAR_COMMAND : ["getenv"]
+DELVAR_COMMAND : ["delenv"]
+SETVAR_COMMAND : ["setenv"]
 USAGE_COMMAND : ["usage"]
 VARS_COMMAND : ["vars", "config"]
 
