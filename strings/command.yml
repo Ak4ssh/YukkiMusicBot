@@ -11,30 +11,30 @@
 # Commands in Every Language
 
 # Bot Commands
-PING_COMMAND : ["ping"]
-START_COMMAND : ["start"]
-HELP_COMMAND : ["help"]
-SETTINGS_COMMAND : ["settings", "setting"]
+PING_COMMAND : ["pg"]
+START_COMMAND : ["srt"]
+HELP_COMMAND : ["lp"]
+SETTINGS_COMMAND : ["settgs", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
 GSTATS_COMMAND : ["gstats"]
 STATS_COMMAND : ["stats"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
 # Play Commands
-PLAY_COMMAND : ["play", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce"]
+PLAY_COMMAND : ["ay", "vpy", "cpy", "pay", "porce", "vprce", "cplce", "cvorce"]
 PLAYMODE_COMMAND : ["playmode"]
-CHANNELPLAY_COMMAND : ["channelplay"]
+CHANNELPLAY_COMMAND : ["chanplay"]
 STREAM_COMMAND : ["stream", "cstream", "streamforce"]
 
 #Playlists Command
-PLAYLIST_COMMAND : ["playlist"]
+PLAYLIST_COMMAND : ["plat"]
 DELETEPLAYLIST_COMMAND : ["deleteplaylist"]
 
 
 # Tools
-QUEUE_COMMAND : ["queue","cqueue", "player", "cplayer", "playing", "cplaying"]
-SONG_COMMAND : ["song", "video"]
-LYRICS_COMMAND : ["lyrics"]
+QUEUE_COMMAND : ["eue","ceue", "pyer", "cayer", "playing", "cplaying"]
+SONG_COMMAND : ["sg", "video"]
+LYRICS_COMMAND : ["lics"]
 
 
 # Admin Commands
