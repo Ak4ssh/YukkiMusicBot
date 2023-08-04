@@ -34,9 +34,9 @@ SETTINGS_COMMAND : ["settings", "setting"]
 
 RELOAD_COMMAND : ["admincache", "reload"]
 
-GSTATS_COMMAND : ["gstats"]
+GSTATS_COMMAND : ["gs"]
 
-STATS_COMMAND : ["stats"]
+STATS_COMMAND : ["ats"]
 
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
